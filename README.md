@@ -13,7 +13,9 @@ This project involves several key components and steps.
 
 
 ## Architectural Diagram
-*TODO*: Provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish. In this case, it has to be related to the completed project, with its various stages that are critical to the overall flow. For example, one stage for managing models could be "using Automated ML to determine the best model". 
+The architecture diagram for this project showcases the flow of data and processes involved in deploying a cloud-based machine learning model using Azure. It illustrates the integration of various components such as Azure Machine Learning, AutoML, and Azure Pipelines to automate the model training, deployment, and consumption processes. The diagram also highlights the use of authentication, logging, and Swagger documentation to ensure security, monitoring, and easy access to the deployed model's endpoints.
+
+<img width="626" alt="screen-shot-2020-09-15-at-12 36 11-pm" src="https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/0bbea764-8936-4103-b497-3d4a6ee700c6">
 
 ## Screenshot documentation
 *TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 

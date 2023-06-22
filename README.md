@@ -29,8 +29,12 @@ I was using the lab Udacity provided, therefore i was able to skip this step.
 ![2023-06-22 (3)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/f13814c5-4bc6-463f-847c-52d3510c5af6)
 
 ### Step 3: Deploy the Best Model
+![2023-06-22 (11)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/4bba5f00-7445-438f-a36d-29613aa956b8)
 
 ### Step 4: Enable Logging
+![2023-06-22 (6)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/f0af444f-f538-48dd-ba4e-ec8442a89ece)
+![2023-06-22 (9)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/c8c3dc71-3698-4235-8387-3032457259fb)
+![2023-06-22 (10)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/7ab264a5-340b-4a5d-a6fd-224c5a75871d)
 
 ### Step 5: Swagger Documentation
 

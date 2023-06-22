@@ -51,6 +51,7 @@ I was using the lab Udacity provided, therefore i was able to skip this step.
 ![2023-06-22 (18)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/8b395a64-9406-452c-bdc7-3a57937a25ca)
 ![2023-06-22 (19)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/ab860655-aec9-4e2c-81cf-c5e1ffe2ee5e)
 ![2023-06-22 (20)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/f677ed43-89ed-4ac8-b715-717fd2ace09b)
+![2023-06-22 (15)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/b7342d07-c2a1-402b-807c-1198dee9170a)
 
 
 ## Screen Recording

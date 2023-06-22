@@ -18,7 +18,22 @@ The architecture diagram for this project showcases the flow of data and process
 <img width="626" alt="screen-shot-2020-09-15-at-12 36 11-pm" src="https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/0bbea764-8936-4103-b497-3d4a6ee700c6">
 
 ## Screenshot documentation
-*TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
+Brief documentation of each step and the outputs.
+
+### Step 1: Authentication
+I was using the lab Udacity provided, therefore i was able to skip this step.
+
+### Step 2: Automated ML Experiment
+
+### Step 3: Deploy the Best Model
+
+### Step 4: Enable Logging
+
+### Step 5: Swagger Documentation
+
+### Step 6: Consume Model Endpoints
+
+### Step 7: Create, Publish and Consume a Pipeline
 
 ## Screen Recording
 The screencast is provided in the .zip File.

@@ -1,7 +1,4 @@
-*NOTE:* This file is a template that you can use to create the README for your project. The *TODO* comments below will highlight the information you should be sure to include.
-
-
-# Your Project Title Here
+# Operationalizing-Machine-Learning
 
 *TODO:* Write an overview to your project.
 
@@ -14,5 +11,4 @@
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
 
-## Standout Suggestions
-*TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
+

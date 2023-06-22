@@ -24,19 +24,31 @@ Brief documentation of each step and the outputs.
 I was using the lab Udacity provided, therefore i was able to skip this step.
 
 ### Step 2: Automated ML Experiment
+
+In the Automated ML Experiment, an experiment is created and configured using Automated ML. Additionally, a compute cluster is set up to run the experiment and train a model using the bankmarketing_train.csv dataset.
+
 ![2023-06-22 (1)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/23bbccc9-9221-4153-ad5f-12b5edc566fa)
 ![2023-06-22 (2)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/09754b8e-6507-437e-8e91-c7168152595e)
 ![2023-06-22 (3)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/f13814c5-4bc6-463f-847c-52d3510c5af6)
 
 ### Step 3: Deploy the Best Model
+
+In this step, we are able to interact with the HTTP API service and send data over POST requests to interact with the deployed model. After completing the previous automl experiment run, summary of all the models and their metrics can be found, including explanations. The best model is shown in the "Details" tab and is also be listed first in the "Models" tab for easy selection for deployment.
+
 ![2023-06-22 (11)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/4bba5f00-7445-438f-a36d-29613aa956b8)
 
 ### Step 4: Enable Logging
+
+To enable logging, configure the enable_logging parameter in the AutoMLConfig class to track and store logs of the experiment run.
+
 ![2023-06-22 (6)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/f0af444f-f538-48dd-ba4e-ec8442a89ece)
 ![2023-06-22 (9)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/c8c3dc71-3698-4235-8387-3032457259fb)
 ![2023-06-22 (10)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/7ab264a5-340b-4a5d-a6fd-224c5a75871d)
 
 ### Step 5: Swagger Documentation
+
+In the step "Swagger Documentation," a Swagger documentation for the deployed model's HTTP API is genereated. This documentation provides a detailed description of the API endpoints, input and output formats, and allows for easy testing and integration of the model into other applications.
+
 ![2023-06-16 (11)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/fd00772f-8f41-41cd-af63-32f616f90ec2)
 ![2023-06-16 (13)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/e8ed7681-bbb7-4030-b983-3739a23381f3)
 ![2023-06-16 (14)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/c29c8a63-614f-4fff-9c1b-57539c53a862)

@@ -37,10 +37,21 @@ I was using the lab Udacity provided, therefore i was able to skip this step.
 ![2023-06-22 (10)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/7ab264a5-340b-4a5d-a6fd-224c5a75871d)
 
 ### Step 5: Swagger Documentation
+![2023-06-16 (11)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/fd00772f-8f41-41cd-af63-32f616f90ec2)
+![2023-06-16 (13)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/e8ed7681-bbb7-4030-b983-3739a23381f3)
+![2023-06-16 (14)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/c29c8a63-614f-4fff-9c1b-57539c53a862)
 
 ### Step 6: Consume Model Endpoints
+![2023-06-22 (12)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/c02f654f-39d1-476d-b320-67d792c5958f)
 
 ### Step 7: Create, Publish and Consume a Pipeline
+![2023-06-22 (13)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/6b87cc40-65c6-49c7-b67a-b483d6ef2936)
+![2023-06-22 (17)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/f6d1912c-6d1a-4fdf-a2bd-71b27df0a2a7)
+![2023-06-22 (18)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/8b395a64-9406-452c-bdc7-3a57937a25ca)
+![2023-06-22 (21)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/ba6dc349-627f-4a4c-8d1b-f6113b24467f)
+![2023-06-22 (19)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/ab860655-aec9-4e2c-81cf-c5e1ffe2ee5e)
+![2023-06-22 (20)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/f677ed43-89ed-4ac8-b715-717fd2ace09b)
+
 
 ## Screen Recording
 The screencast is provided in the .zip File.

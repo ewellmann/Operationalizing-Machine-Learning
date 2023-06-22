@@ -24,6 +24,9 @@ Brief documentation of each step and the outputs.
 I was using the lab Udacity provided, therefore i was able to skip this step.
 
 ### Step 2: Automated ML Experiment
+![2023-06-22 (1)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/23bbccc9-9221-4153-ad5f-12b5edc566fa)
+![2023-06-22 (2)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/09754b8e-6507-437e-8e91-c7168152595e)
+![2023-06-22 (3)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/f13814c5-4bc6-463f-847c-52d3510c5af6)
 
 ### Step 3: Deploy the Best Model
 

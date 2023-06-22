@@ -54,9 +54,14 @@ In the step "Swagger Documentation," a Swagger documentation for the deployed mo
 ![2023-06-16 (14)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/c29c8a63-614f-4fff-9c1b-57539c53a862)
 
 ### Step 6: Consume Model Endpoints
+Once the model is deployed, the endpoint.py script provided is use to interact with the trained model. 
+
 ![2023-06-22 (12)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/c02f654f-39d1-476d-b320-67d792c5958f)
 
 ### Step 7: Create, Publish and Consume a Pipeline
+
+To create, publish, and consume a pipeline in Azure Machine Learning, the Azure Machine Learning SDK is used in this step. First, pipeline steps is defined, configure the data and compute resources, and then the pipeline as a REST endpoint is published. Once published, the pipeline can be consumed by making HTTP requests to the endpoint, triggering its execution, and retrieving the results.
+
 ![2023-06-22 (13)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/6b87cc40-65c6-49c7-b67a-b483d6ef2936)
 ![2023-06-22 (21)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/ba6dc349-627f-4a4c-8d1b-f6113b24467f)
 ![2023-06-22 (17)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/f6d1912c-6d1a-4fdf-a2bd-71b27df0a2a7)

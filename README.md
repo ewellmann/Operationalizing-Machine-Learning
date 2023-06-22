@@ -46,9 +46,9 @@ I was using the lab Udacity provided, therefore i was able to skip this step.
 
 ### Step 7: Create, Publish and Consume a Pipeline
 ![2023-06-22 (13)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/6b87cc40-65c6-49c7-b67a-b483d6ef2936)
+![2023-06-22 (21)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/ba6dc349-627f-4a4c-8d1b-f6113b24467f)
 ![2023-06-22 (17)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/f6d1912c-6d1a-4fdf-a2bd-71b27df0a2a7)
 ![2023-06-22 (18)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/8b395a64-9406-452c-bdc7-3a57937a25ca)
-![2023-06-22 (21)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/ba6dc349-627f-4a4c-8d1b-f6113b24467f)
 ![2023-06-22 (19)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/ab860655-aec9-4e2c-81cf-c5e1ffe2ee5e)
 ![2023-06-22 (20)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/f677ed43-89ed-4ac8-b715-717fd2ace09b)
 

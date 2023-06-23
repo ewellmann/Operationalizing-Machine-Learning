@@ -27,48 +27,48 @@ I was using the lab Udacity provided, therefore i was able to skip this step.
 
 In the Automated ML Experiment, an experiment is created and configured using Automated ML. Additionally, a compute cluster is set up to run the experiment and train a model using the bankmarketing_train.csv dataset.
 
-![2023-06-22 (1)](../Screenshots/2023-06-22%20(1).png)
-![2023-06-22 (2)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/09754b8e-6507-437e-8e91-c7168152595e)
-![2023-06-22 (3)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/f13814c5-4bc6-463f-847c-52d3510c5af6)
+![2023-06-22 (1)](Screenshots/2023-06-22%20(1).png)
+![2023-06-22 (2)](Screenshots/2023-06-22%20(2).png)
+![2023-06-22 (3)](Screenshots/2023-06-22%20(3).png)
 
 ### Step 3: Deploy the Best Model
 
 In this step, we are able to interact with the HTTP API service and send data over POST requests to interact with the deployed model. After completing the previous automl experiment run, summary of all the models and their metrics can be found, including explanations. The best model is shown in the "Details" tab and is also be listed first in the "Models" tab for easy selection for deployment.
 
-![2023-06-22 (11)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/4bba5f00-7445-438f-a36d-29613aa956b8)
+![2023-06-22 (11)](Screenshots/2023-06-22%20(11).png)
 
 ### Step 4: Enable Logging
 
 To enable logging, configure the enable_logging parameter in the AutoMLConfig class to track and store logs of the experiment run.
 
-![2023-06-22 (6)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/f0af444f-f538-48dd-ba4e-ec8442a89ece)
-![2023-06-22 (9)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/c8c3dc71-3698-4235-8387-3032457259fb)
-![2023-06-22 (10)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/7ab264a5-340b-4a5d-a6fd-224c5a75871d)
+![2023-06-22 (6)](Screenshots/2023-06-22%20(6).png)
+![2023-06-22 (9)](Screenshots/2023-06-22%20(9).png)
+![2023-06-22 (10)](Screenshots/2023-06-22%20(10).png)
 
 ### Step 5: Swagger Documentation
 
 In the step "Swagger Documentation," a Swagger documentation for the deployed model's HTTP API is genereated. This documentation provides a detailed description of the API endpoints, input and output formats, and allows for easy testing and integration of the model into other applications.
 
-![2023-06-16 (11)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/fd00772f-8f41-41cd-af63-32f616f90ec2)
-![2023-06-16 (13)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/e8ed7681-bbb7-4030-b983-3739a23381f3)
-![2023-06-16 (14)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/c29c8a63-614f-4fff-9c1b-57539c53a862)
+![2023-06-16 (11)](Screenshots/2023-06-16%20(11).png)
+![2023-06-16 (13)](Screenshots/2023-06-16%20(13).png)
+![2023-06-16 (14)](Screenshots/2023-06-16%20(14).png)
 
 ### Step 6: Consume Model Endpoints
 Once the model is deployed, the endpoint.py script provided is use to interact with the trained model. 
 
-![2023-06-22 (12)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/c02f654f-39d1-476d-b320-67d792c5958f)
+![2023-06-22 (12)](Screenshots/2023-06-22%20(12).png)
 
 ### Step 7: Create, Publish and Consume a Pipeline
 
 To create, publish, and consume a pipeline in Azure Machine Learning, the Azure Machine Learning SDK is used in this step. First, pipeline steps is defined, configure the data and compute resources, and then the pipeline as a REST endpoint is published. Once published, the pipeline can be consumed by making HTTP requests to the endpoint, triggering its execution, and retrieving the results.
 
-![2023-06-22 (13)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/6b87cc40-65c6-49c7-b67a-b483d6ef2936)
-![2023-06-22 (21)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/ba6dc349-627f-4a4c-8d1b-f6113b24467f)
-![2023-06-22 (17)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/f6d1912c-6d1a-4fdf-a2bd-71b27df0a2a7)
-![2023-06-22 (18)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/8b395a64-9406-452c-bdc7-3a57937a25ca)
-![2023-06-22 (19)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/ab860655-aec9-4e2c-81cf-c5e1ffe2ee5e)
-![2023-06-22 (20)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/f677ed43-89ed-4ac8-b715-717fd2ace09b)
-![2023-06-22 (15)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/b7342d07-c2a1-402b-807c-1198dee9170a)
+![2023-06-22 (13)](Screenshots/2023-06-22%20(13).png)
+![2023-06-22 (21)](Screenshots/2023-06-22%20(21).png)
+![2023-06-22 (17)](Screenshots/2023-06-22%20(17).png)
+![2023-06-22 (18)](Screenshots/2023-06-22%20(18).png)
+![2023-06-22 (19)](Screenshots/2023-06-22%20(19).png)
+![2023-06-22 (20)](Screenshots/2023-06-22%20(20).png)
+![2023-06-22 (15)](Screenshots/2023-06-22%20(15).png)
 
 
 ## Screen Recording

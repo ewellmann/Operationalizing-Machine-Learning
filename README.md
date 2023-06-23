@@ -15,7 +15,7 @@ This project involves several key components and steps.
 ## Architectural Diagram
 The architecture diagram for this project showcases the flow of data and processes involved in deploying a cloud-based machine learning model using Azure. It illustrates the integration of various components such as Azure Machine Learning, AutoML, and Azure Pipelines to automate the model training, deployment, and consumption processes. The diagram also highlights the use of authentication, logging, and Swagger documentation to ensure security, monitoring, and easy access to the deployed model's endpoints.
 
-<img width="626" alt="screen-shot-2020-09-15-at-12 36 11-pm" src="https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/0bbea764-8936-4103-b497-3d4a6ee700c6">
+![2screen-shot-2020-09-15-at-12 36 11-pm](Screenshots/screen-shot-2020-09-15-at-12%2036%2011-pm.png)
 
 ## Screenshot documentation
 Brief documentation of each step and the outputs.

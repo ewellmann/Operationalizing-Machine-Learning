@@ -27,7 +27,7 @@ I was using the lab Udacity provided, therefore i was able to skip this step.
 
 In the Automated ML Experiment, an experiment is created and configured using Automated ML. Additionally, a compute cluster is set up to run the experiment and train a model using the bankmarketing_train.csv dataset.
 
-![2023-06-22 (1)](../Screenshots/2023-06-22 (1).png)
+![2023-06-22 (1)](../Screenshots/2023-06-22%20(1).png)
 ![2023-06-22 (2)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/09754b8e-6507-437e-8e91-c7168152595e)
 ![2023-06-22 (3)](https://github.com/ewellmann/Operationalizing-Machine-Learning/assets/59996314/f13814c5-4bc6-463f-847c-52d3510c5af6)
 
